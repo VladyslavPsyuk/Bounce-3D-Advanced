@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9E4D616D-CD08-04C6-EB70-D0316C869185}</ProjectGuid>
+    <ProjectGuid>{72BC756C-97AE-04B2-8DFF-0322F6FC7BB5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -82,36 +82,37 @@
     <Compile Include="Assets\Scalisation.cs" />
     <Compile Include="Assets\Shop.cs" />
     <Compile Include="Assets\spawnPlatform.cs" />
+    <Compile Include="Assets\TeachScript.cs" />
     <Compile Include="Assets\Teleport.cs" />
     <Compile Include="Assets\VoxelPiramide.cs" />
     <Compile Include="Assets\VoxelTools.cs" />
     <Compile Include="Assets\Waypoints.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>E:/Unity projects/presentationeProd/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>E:/Unity projects/Bounce-3D-Advanced/Bounce-3D-Advanced/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>E:/Unity projects/presentationeProd/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>E:/Unity projects/Bounce-3D-Advanced/Bounce-3D-Advanced/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/Unity projects/presentationeProd/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>E:/Unity projects/Bounce-3D-Advanced/Bounce-3D-Advanced/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>E:/Unity projects/presentationeProd/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>E:/Unity projects/Bounce-3D-Advanced/Bounce-3D-Advanced/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>E:/Unity projects/presentationeProd/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>E:/Unity projects/Bounce-3D-Advanced/Bounce-3D-Advanced/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>E:/Unity projects/presentationeProd/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>E:/Unity projects/Bounce-3D-Advanced/Bounce-3D-Advanced/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>E:/Unity projects/presentationeProd/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>E:/Unity projects/Bounce-3D-Advanced/Bounce-3D-Advanced/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/Unity projects/presentationeProd/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>E:/Unity projects/Bounce-3D-Advanced/Bounce-3D-Advanced/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>E:/Unity projects/presentationeProd/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>E:/Unity projects/Bounce-3D-Advanced/Bounce-3D-Advanced/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

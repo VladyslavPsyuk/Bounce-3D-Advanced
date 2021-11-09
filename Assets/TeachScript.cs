@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class TeachScript : MonoBehaviour
 {
+    public float speed;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -29,5 +31,10 @@ public class TeachScript : MonoBehaviour
         {
             transform.Translate(transform.position.x - 1f, 0f, 0f);
         }
+        float h = Input.GetAxisRaw("Horizontal");
+        float v = Input.GetAxisRaw("Vertical");
+
+        gameObject.transform.position = new Vector2(transform.position.x + (h * speed),
+           transform.position.y + (v * speed));
     }
 }

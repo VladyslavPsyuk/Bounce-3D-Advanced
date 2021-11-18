@@ -30,3 +30,21 @@ _ReSharper*/
 .vs/
 #Nuget packages folder
 packages/
+/.vsconfig
+/Assembly-CSharp.csproj
+/Library/ArtifactDB
+/Library/Artifacts/d3/d3c429d16212b8dcf4fd31e7ef573ee2
+/Library/EditorInstance.json
+/Library/ScriptAssemblies/Assembly-CSharp.dll
+/Library/ScriptAssemblies/Assembly-CSharp.pdb
+/Library/shadercompiler-UnityShaderCompiler.exe0.log
+/Library/SourceAssetDB
+/Temp/ExportedBlenderFBXFile.fbx
+/Temp/UnityLockfile
+/Temp/UnityTempFile-f2dee9cb562cc2b49ab86c11a9a02c6d
+/Assembly-CSharp.csproj
+/Library/ArtifactDB
+/Library/ScriptAssemblies/Assembly-CSharp.dll
+/Library/ScriptAssemblies/Assembly-CSharp.pdb
+/Library/shadercompiler-UnityShaderCompiler.exe0.log
+/Library/SourceAssetDB
